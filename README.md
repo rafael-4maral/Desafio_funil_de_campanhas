@@ -32,4 +32,4 @@ Execute o projeto:
 
 npm run dev
 
-
+"O desafio é criar uma aplicação web onde o usuário possa montar visualmente um funil de campanhas de tráfego pago usando React Flow para desenhar o fluxo e shadcn/ui para os componentes da interface. O usuário deve conseguir criar etapas do funil (por exemplo: anúncio, landing page, formulário, checkout, etc.), conectar essas etapas entre si e visualizar o fluxo completo de forma gráfica. Cada etapa deve mostrar dados simulados de acessos ou conversões, apenas para ilustrar como seria o desempenho do funil. Não é necessário backend nem banco de dados: os dados podem ser simulados e salvos no próprio navegador, por exemplo usando localStorage, para que o funil continue salvo quando o usuário recarregar a página. A ideia é ter uma interface simples e intuitiva onde seja fácil criar, conectar, editar e remover etapas do funil."
