@@ -1,4 +1,4 @@
-# Funnel Builder
+## Funis de campanhas de tráfego pago
 
 Aplicação web para criação visual de funis de campanhas de tráfego pago.
 
